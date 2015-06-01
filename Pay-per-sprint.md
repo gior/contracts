@@ -240,7 +240,8 @@ Tutte le parti firmano e mantengono una copia nel proprio archivio.
   
 In fede,  
 [data]  
-  
-Firmato e approvato                   Firmato e approvato  
-Matteo Papadopoulos                   [nome legale rappresentante]  
-Cantiere Creativo Srl                 [ragione sociale cliente]  
+
+Firmato e approvato      | Firmato e approvato           |
+------------------------ | ----------------------------- |
+Matteo Papadopoulos      | [nome legale rappresentante]  |
+Cantiere Creativo Srl    | [ragione sociale cliente]     |
