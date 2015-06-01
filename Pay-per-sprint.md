@@ -50,19 +50,14 @@ Soggetti coinvolti: (noi) **Cantiere Creativo Srl** e (voi) **[nome cliente]**
 Faremo sempre del nostro meglio per soddisfare i vostri bisogni e soddisfare le vostre aspettative. Per questo è importante avere un punto di riferimento scritto nero su bianco in modo che entrambi si sappia cosa vogliamo, chi deve fare cosa, quando farla e come agire nel caso che qualcosa non andasse come previsto. In questo contratto non ci saranno termini complicati o lunghi passaggi di testo difficilmente leggibili. Non è nostra intenzione farvi accettare qualcosa che possiate rimpiangere in futuro. Crediamo che questa sia la cosa migliore da fare per entrambe le parti, per il presente e per il futuro.  
   
 ## In sintesi  
-Voi  
-**[ragione sociale]**  
-con sede legale a ​[città]  
-in [indirizzo]  
-P.IVA ​[IVA]  
+Voi **[ragione sociale]** con sede legale a [città] in [indirizzo] P.IVA [IVA]  
 state incaricando  
-Noi  
-**Cantiere Creativo**  
-con sede in Firenze  
-Via Francesco Botticini 3  
+Noi **Cantiere Creativo** con sede in Firenze Via Francesco Botticini 3  
 per la realizzazione di quanto sopra descritto.  
+
 Noi : abbiamo l'esperienza e la conoscenza per fare quello che abbiamo concordato e svolgeremo il lavoro nel modo più diligente e professionale. É nostra priorità rispettare gli obiettivi di ogni iterazione, garantire un prodotto di alta qualità e mantenere il riserbo richiesto sul vostro progetto secondo quanto qui concordato.  
 Voi : avete l'autorità per stipulare questo contratto. Ci fornirete tutto il materiale di cui avremo bisogno per completare il progetto nei tempi e nei formati che concordiamo per ogni passo. Revisionerete il nostro lavoro e ci fornirete feedback e approvazioni nei tempi che fisseremo insieme per raggiungere gli obbiettivi. Vi impegnate inoltre a rispettare la programmazione dei pagamenti stabilita alla fine di questo contratto.  
+
 Con questo contratto ci accordiamo per sviluppare il lavoro con una metodologia agile così come descritto nelle nostre precedenti conversazioni e incontri e riportato in questo documento.  
   
 # METODOLOGIA  
