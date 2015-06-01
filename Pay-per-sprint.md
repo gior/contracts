@@ -5,10 +5,10 @@ Soggetti coinvolti: (noi) Cantiere Creativo Srl e (voi) [nome cliente]
 
 [DESCRIZIONE](#descrizione)  
 [Introduzione](#introduzione)  
-[In sintesi](#in sintesi)  
-METODOLOGIA  
-Introduzione al metodo  
-Iterazioni (sprint)  
+[In sintesi](#in-sintesi)  
+[METODOLOGIA](#metodologia)  
+[Introduzione al metodo](#introduzione-al-metodo)
+[Iterazioni (sprint)](#iterazioni-sprint)  
 Sprint-planning  
 Board e Storie  
 Time tracking  
