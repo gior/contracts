@@ -3,9 +3,9 @@ Contratto di lavoro
 Progetto: [nome progetto]  
 Soggetti coinvolti: (noi) Cantiere Creativo Srl e (voi) [nome cliente]  
 
-[DESCRIZIONE](#DESCRIZIONE)  
-[Introduzione](##Introduzione)  
-[In sintesi](##In sintesi)  
+[DESCRIZIONE](#descrizione)  
+[Introduzione](##introduzione)  
+[In sintesi](##in sintesi)  
 METODOLOGIA  
 Introduzione al metodo  
 Iterazioni (sprint)  
