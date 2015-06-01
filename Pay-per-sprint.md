@@ -7,41 +7,41 @@ Soggetti coinvolti: (noi) Cantiere Creativo Srl e (voi) [nome cliente]
 [Introduzione](#introduzione)  
 [In sintesi](#in-sintesi)  
 [METODOLOGIA](#metodologia)  
-[Introduzione al metodo](#introduzione-al-metodo)
+[Introduzione al metodo](#introduzione-al-metodo)  
 [Iterazioni (sprint)](#iterazioni-sprint)  
-Sprint-planning  
-Board e Storie  
-Time tracking  
-Retrospettive, check points e reports  
-Stakeholder  
-Lock-in ed Exit strategy  
-SVILUPPO DEL LAVORO  
-Brief e Mood  
-Mood  
-Sketch, Wireframe e mockup  
-Tecnologie di sviluppo  
-Strumenti di lavoro  
-Test e documentazione  
-Modifiche e revisioni  
-Bugs o features?  
-Hosting e CDN  
-CONTENUTI  
-Contenuti testuali  
-Foto e file grafici  
-PORTFOLIO E NDA  
-[1] NDA Free  
-[2] NDA base  
-[3] NDA totale  
-ASPETTO LEGALE  
-Copyright  
-Ma dove sono le scrittine microscopiche?  
-[1] PARTE ECONOMICA • JET PACK  
-Costi  
-Tempi  
-[2] PARTE ECONOMICA • LONG FLIGHT PACK  
-Tempi e costi  
-Compensazione e fatturazione  
-Cambio di idea  
+[Sprint-planning](#sprint-planning)  
+[Board e Storie](#board-e-storie)  
+[Time tracking](#time-tracking)  
+[Retrospettive, check points e reports](#retrospettive-check-points-e-reports)  
+[Stakeholder](#stakeholder)  
+[Lock-in ed Exit strategy](#lock-in-ed-exit-strategy)  
+[SVILUPPO DEL LAVORO](#sviluppo-del-lavoro)  
+[Brief e Mood](#brief-e-mood)  
+[Mood](#mood)  
+[Sketch, Wireframe e mockup](#sketch-wireframe-e-mockup)  
+[Tecnologie di sviluppo](#tecnologie-di-sviluppo)  
+[Strumenti di lavoro](#strumenti-di-lavoro)  
+[Test e documentazione](#test-e-documentazione)  
+[Modifiche e revisioni](#modifiche-e-revisioni)  
+[Bugs o features?](bugs-o-features)  
+[Hosting e CDN](#hosting-e-cdn)  
+[CONTENUTI](#contenuti)  
+[Contenuti testuali](#contenuti-testuali)  
+[Foto e file grafici](#foto-e-file-grafici)  
+[PORTFOLIO E NDA](#portfolio-e-nda)  
+[1] NDA Free](#1-nda-free)  
+[2] NDA base](#2-nda-base)  
+[3] NDA totale](3-nda-totale)  
+[ASPETTO LEGALE](#aspetto-legale)  
+[Copyright](#copyright)  
+[Ma dove sono le scrittine microscopiche?](#ma-dove-sono-le-scrittine-microscopiche)  
+[[1] PARTE ECONOMICA • JET PACK](#1-parte-economica--jet-pack)  
+[Costi](#costi)  
+[Tempi](#tempi)  
+[[2] PARTE ECONOMICA • LONG FLIGHT PACK](#2-parte-economica--long-flight-pack)  
+[Tempi e costi](#tempi-e-costi)  
+[Compensazione e fatturazione](#compensazione-e-fatturazione)  
+[Cambio di idea](#cambio-di-idea)  
 
 # DESCRIZIONE  
 [breve descrizione del lavoro]  
