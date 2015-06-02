@@ -1,8 +1,9 @@
-v.2.0 — 1 marzo 2015  
-Contratto di lavoro  
+#Contratto di lavoro  
+**v.2.0 — 1 marzo 2015**  
+
 Progetto: [nome progetto]  
 Soggetti coinvolti: (noi) **Cantiere Creativo Srl** e (voi) **[nome cliente]**  
-
+  
 [DESCRIZIONE](#descrizione)  
 [Introduzione](#introduzione)  
 [In sintesi](#in-sintesi)  
